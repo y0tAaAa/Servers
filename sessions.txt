@@ -1,0 +1,62 @@
+[Tue Nov 26 15:05:17 2024
+] User: y0ta Action: Authenticated
+[Tue Nov 26 15:05:29 2024
+] User: y0ta Action: Registered
+[Tue Nov 26 15:05:40 2024
+] User: y0ta Action: Authenticated
+[Tue Nov 26 15:08:25 2024
+] User: y0ta Action: Authenticated
+[Tue Nov 26 15:08:37 2024
+] User: y0ta Action: Registered
+[Tue Nov 26 15:08:47 2024
+] User: y0ta Action: Authenticated
+[Tue Nov 26 15:20:07 2024
+] User: y0ta Action: Authenticated
+[Tue Nov 26 15:43:40 2024
+] User: y0ta Action: Authenticated
+[Tue Nov 26 15:51:47 2024
+] User: y0ta Action: Authenticated
+[Tue Nov 26 15:52:40 2024
+] User: y0ta Action: Authenticated
+[Tue Nov 26 16:00:23 2024
+] User: y0ta Action: Authenticated
+[Tue Nov 26 19:02:38 2024
+] User: y0ta Action: Authenticated
+[Tue Nov 26 19:03:43 2024
+] User: y0ta Action: Authenticated
+[Wed Nov 27 09:17:03 2024
+] User: y0ta Action: Authenticated
+[Wed Nov 27 09:17:15 2024
+] User: y0ta Action: Registered
+[Wed Nov 27 09:17:24 2024
+] User: y0ta Action: Authenticated
+[Wed Nov 27 09:18:03 2024
+] User: y0ta Action: Authenticated
+[Wed Nov 27 10:03:10 2024
+] User: y0ta Action: Authenticated
+[2024-11-27 10:13:51] User: Unknown Command: ping
+[2024-11-27 10:14:03] User: Unknown Command: auth y0ta vladdey2006
+[2024-11-27 10:14:03] User: y0ta Command: Authenticated
+[2024-11-27 10:14:08] User: y0ta Command: ping
+[2024-11-27 10:14:16] User: y0ta Command: session_history
+[2024-11-27 10:14:29] User: y0ta Command: game
+[2024-11-27 10:14:37] User: y0ta Command: session_history
+[2024-11-27 10:14:54] User: y0ta Command: myinfo
+[2024-11-27 10:15:03] User: y0ta Command: exit
+[2024-11-27 10:19:22] User: Unknown Command: ping
+[2024-11-27 10:19:42] User: Unknown Command: reg serhii 123
+[2024-11-27 10:19:52] User: Unknown Command: register serhii 123
+[2024-11-27 10:19:52] User: serhii Command: Registered
+[2024-11-27 10:20:01] User: Unknown Command: auth serhii 123
+[2024-11-27 10:20:01] User: serhii Command: Authenticated
+[2024-11-27 10:20:07] User: serhii Command: server-INFO
+[2024-11-27 10:20:16] User: serhii Command: server_info
+[2024-11-27 10:20:21] User: serhii Command: myinfo
+[2024-11-27 10:20:42] User: serhii Command: game
+[2024-11-27 10:21:37] User: serhii Command: help
+[2024-11-27 10:21:59] User: serhii Command: exit
+[2024-11-27 10:33:24] User: Unknown Command: auth serhii 123
+[2024-11-27 10:33:24] User: serhii Command: Authenticated
+[2024-11-27 10:33:30] User: serhii Command: myinfo
+[2024-11-27 10:34:25] User: serhii Command: exit
+[2024-11-27 10:40:29] User: Unknown Command: exit
